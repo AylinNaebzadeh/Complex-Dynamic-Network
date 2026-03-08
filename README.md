@@ -88,4 +88,13 @@ BA = nx.barabasi_albert_graph(n, int(m / 500))
 ```
 The degree distribution, clustering coefficient, and transitivity for the generated network were calculated. The results showed that, in most cases, the metric values were lower than the real network results.
 
-
+## Assignment 4
+### Datasets
+Same as [Assignment 2](https://github.com/AylinNaebzadeh/Complex-Dynamic-Network/edit/main/README.md#assignemt-2).
+### Implementation
+For this assignment, the communities were identified, and then the modularity value was calculated.
+## Assignment 5
+### Datasets
+Same as [Assignment 2](https://github.com/AylinNaebzadeh/Complex-Dynamic-Network/edit/main/README.md#assignemt-2).
+### Implementation
+For this assignment, two epidemic models (SIR, SIS) and four scenarios with different generative models were tried.
