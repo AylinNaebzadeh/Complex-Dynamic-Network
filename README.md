@@ -54,6 +54,7 @@ You can find four projects that were finished during the **Complex Dynamic Netwo
   0	13
   ```
 - Also, a dataset of friendships in the dormitory was created by me, in which every edge indicates a friendship relation.
+  
   ![friendship](assets/dormitory_friendship.png)
 ### Implementation
 The following information and metrics have been calculated for all the datasets using the **NetworkX** library. 
